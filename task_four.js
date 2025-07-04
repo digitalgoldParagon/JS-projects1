@@ -9,4 +9,5 @@ console.log( "myName  type: " + typeof myName);
 console.log( "num type: " + typeof num)
 console.log("Paragon type: " + typeof Paragon)
 console.log( "GOAT type: " + typeof GOAT); 
-console.log( "identity type: " + typeof identity);   
+console.log( "identity type: " + typeof identity)
+
